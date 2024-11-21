@@ -1,0 +1,6 @@
+product_name,quantity_sold,price_per_unit
+laptop,2,800
+smartphone,5,600
+headphones,10,50
+laptop,3,800
+smartphone,2,600
